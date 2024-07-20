@@ -1,0 +1,13 @@
+.carousel{
+    height: 300px;
+    width: 1000px;
+}
+
+.splide, .splide__track, .splide__list{
+    height: 100%;
+    width: 100%;
+}
+
+.carousel img{
+    height: 100%;
+}
