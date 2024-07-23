@@ -1,0 +1,11 @@
+.drapeau{
+    height: 3px;
+}
+
+.extended-infos {
+    display: none;
+}
+
+/* .card {
+    transition: width 0.5s ease;
+} */
